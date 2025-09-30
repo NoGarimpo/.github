@@ -23,6 +23,6 @@ Estamos construindo uma plataforma web centralizada para gerenciar de forma inte
 
 ### Equipe
 - [Victor] - (https://github.com/Vitohs)
-- [Pablo] -  (https://github.com/PabloValentim94)
+- [Pablo] -  (https://github.com/PabloValentin94)
 
 **Status:** 🚧 Em desenvolvimento 🚧
